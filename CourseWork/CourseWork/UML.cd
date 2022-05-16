@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Car">
+    <Position X="3.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAgCAICISgAAgIoAAgAAAABApAICKAAAggAAgLMAA=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarConsole">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAgAABAAAAAAAAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarConsole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MuscleCar">
+    <Position X="1" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAIIAAAAAAgAEASAAAAAAAAAABAACIAAAAgAAgEAAI=</HashCode>
+      <FileName>MuscleCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperCar">
+    <Position X="3.5" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAACBAAJAAAAABAAAAASAEAgAGCAgQAgQAAA=</HashCode>
+      <FileName>SuperCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JDM">
+    <Position X="7" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAogACAEAABAAAAAAAAAUAAQgIAAABAACgEAAA=</HashCode>
+      <FileName>JDM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WheelDrive">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA=</HashCode>
+      <FileName>WheelDrive.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Color">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
